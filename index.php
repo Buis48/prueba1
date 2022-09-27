@@ -6,7 +6,7 @@ prueba
     <head>
         hola
     </head>
-
+<? echo "hola mundo";? >
 
 
 </body>
